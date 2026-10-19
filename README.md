@@ -29,7 +29,7 @@ A Python desktop application for managing coffee shop orders and sales.
 Run the following command from the project directory:
 
 ```bash
-python cafe_agil.py
+python cafe.py
 ```
 
 Sales are stored in `ventas_cafe.csv` in the working directory.
